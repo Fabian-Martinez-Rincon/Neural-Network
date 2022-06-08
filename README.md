@@ -20,7 +20,8 @@ plt.show()
 
 <div align="center">
   
-![image](https://user-images.githubusercontent.com/55964635/172651719-f9ca3860-86e9-41c8-86cb-4aa85c1ebef8.png)
+![output5](https://user-images.githubusercontent.com/55964635/172653205-5b9c7e4e-5d7a-4e40-8f86-bf1dc8877079.png)
+
   
 </div>
   
