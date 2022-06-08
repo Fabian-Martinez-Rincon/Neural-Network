@@ -1,4 +1,4 @@
-# neural-network
+# `Neural-Network`
 ```py
 import numpy as np
 import scipy as sc
