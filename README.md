@@ -19,7 +19,9 @@ plt.show()
 ```
 
 <div align="center">
+  
 ![image](https://user-images.githubusercontent.com/55964635/172651719-f9ca3860-86e9-41c8-86cb-4aa85c1ebef8.png)
+  
 </div>
   
 ```py
@@ -40,7 +42,9 @@ l1 = neural_layer(4, 8, sigm)
 ```
 
 <div align="center">
+  
 ![output2](https://user-images.githubusercontent.com/55964635/172651885-36361fb4-679f-4ceb-9125-8bb6a7a4913e.png)
+  
 </div>
 
 ```py
