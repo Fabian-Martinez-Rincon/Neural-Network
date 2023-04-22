@@ -1,4 +1,8 @@
 # `Neural-Network`
+
+<table> 
+<td>
+  
 ```py
 import numpy as np
 import scipy as sc
@@ -17,13 +21,13 @@ plt.scatter(X[Y[:, 0] == 1, 0], X[Y[:, 0] == 1, 1], c = "salmon")
 plt.axis("equal")
 plt.show()
 ```
+</td>
+<td>
 
-<div align="center">
-  
 ![output5](https://user-images.githubusercontent.com/55964635/172653205-5b9c7e4e-5d7a-4e40-8f86-bf1dc8877079.png)
+</td></table>
 
-  
-</div>
+<table><td>
   
 ```py
 class neural_layer():
@@ -41,12 +45,12 @@ plt.plot(_x, sigm[1](_x))
 l0 = neural_layer(p, 5, sigm)
 l1 = neural_layer(4, 8, sigm)
 ```
-
-<div align="center">
+</td><td>
   
 ![output2](https://user-images.githubusercontent.com/55964635/172651885-36361fb4-679f-4ceb-9125-8bb6a7a4913e.png)
+</td></table>
   
-</div>
+
 
 ```py
 def create_nn(topology, act_f):
@@ -119,10 +123,9 @@ for i in range(2500):
 ```
 
 <div align="center">
-
-![output3](https://user-images.githubusercontent.com/55964635/172652230-a18734a1-e950-4063-a913-b1c7cef0f4b6.png)
-
-![output4](https://user-images.githubusercontent.com/55964635/172652262-7b020f8a-1c88-418f-9f79-3a2e649d832b.png)
+  
+| ![output3](https://user-images.githubusercontent.com/55964635/172652230-a18734a1-e950-4063-a913-b1c7cef0f4b6.png) | ![output4](https://user-images.githubusercontent.com/55964635/172652262-7b020f8a-1c88-418f-9f79-3a2e649d832b.png) |
+| --- | --- |
 
   
   </div>
